@@ -17,9 +17,9 @@ from aiogram.types import (
 )
 
 # ─── Настройки (берутся из переменных окружения Railway) ───────────────────
-BOT_TOKEN      = os.environ["BOT_TOKEN"]           # Токен от @BotFather
-PAYMENT_TOKEN  = os.environ["PAYMENT_TOKEN"]       # 1744374395:TEST:72f54fcf2c8723d9dbcb
-WEBAPP_URL     = os.environ["WEBAPP_URL"]          # URL твоего Mini App сайта
+BOT_TOKEN      = os.environ[8428209623:AAHRkwMLXYNZAypYwrvLbStegg0y0_jAlgg]           # Токен от @BotFather
+PAYMENT_TOKEN  = os.environ[1744374395:TEST:72f54fcf2c8723d9dbcb]       # 1744374395:TEST:72f54fcf2c8723d9dbcb
+WEBAPP_URL     = os.environ[https://www.loadstring.ru/ ]          # URL твоего Mini App сайта
 PORT           = int(os.environ.get("PORT", 8080))
 
 PRICE_PER_STAR = 1.4  # рублей за 1 звезду
